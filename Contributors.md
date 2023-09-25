@@ -2540,3 +2540,4 @@ T7
 - [Vivek Joshi](https://github.com/BAKA-470)
 - [Rene Arenas Flores](https://github.com/AlohaRene)
 - [Gerard Angelo Vega](https://github.com/Nutty-Nuts)
+- [Jan C] (https://github.com/JanceeRod)
